@@ -63,6 +63,21 @@ Setelah form di submit (dalam kondisi **$_post**), input diambil dari variabel *
 ---
 
 
-## Screenshot output
+## Screenshot
 
+### masukkan nama
+
+![satuu](https://user-images.githubusercontent.com/92738041/226809744-ebe7473e-aa8a-4458-93b1-e4d2bdbb9e61.png)
+
+### masukkan tanggal lahir
+
+![duaa](https://user-images.githubusercontent.com/92738041/226809790-c0a31227-7ac1-494e-b840-6ab74d7563df.png)
+
+### pilih pekerjaan
+
+![tiiga](https://user-images.githubusercontent.com/92738041/226809906-915ac7bf-e637-43aa-b6ee-fbf3fad428ee.png)
+
+### output
+
+![empatt](https://user-images.githubusercontent.com/92738041/226809946-a8d43f09-71ef-4fa3-982a-09f0f087a18d.png)
 
