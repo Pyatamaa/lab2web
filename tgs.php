@@ -35,8 +35,8 @@
         <th>Pekerjaan:</th>
         <td>
           <select name="pekerjaan">
-            <option value="programmer">Programmer</option>
-            <option value="designer">Designer</option>
+            <option value="staff">Staff</option>
+            <option value="admin">Admin</option>
             <option value="manager">Manager</option>
           </select>
         </td>
@@ -59,10 +59,10 @@
 
     // hitung gaji
     switch ($pekerjaan) {
-      case 'programmer':
+      case 'staff':
         $gaji = 10000000;
         break;
-      case 'designer':
+      case 'admin':
         $gaji = 8000000;
         break;
       case 'manager':
@@ -85,5 +85,4 @@
   }
   ?>
 </body>
-
 </html>
